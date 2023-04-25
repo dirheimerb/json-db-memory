@@ -1,4 +1,4 @@
-# JsonDataStore
+# JsonDataStore 
 
 A simple key-value store using JSON files for storage and a binary search tree for in-memory data management. The JsonDataStore provides a convenient way to persist data across application runs, while maintaining fast in-memory data access.  This package provides a basic key-value store that persists data to JSON files, making it easy to store and retrieve data in a lightweight, human-readable format.
 
