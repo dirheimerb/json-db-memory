@@ -1,5 +1,5 @@
 {
-  "name": "json-data-store",
+  "name": "json-db-memory",
   "version": "1.0.0",
   "description": "A simple key-value pair, using JSON files for Node.js",
   "main": "index.js",
@@ -11,6 +11,9 @@
     "json",
     "database",
     "data",
+    "datastore",
+    "memory",
+    "key",
     "store",
     "node",
     "nodejs",

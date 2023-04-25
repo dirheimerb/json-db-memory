@@ -1,1 +1,1 @@
-npm install json-data-store
+npm install json-db-memory

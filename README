@@ -13,7 +13,7 @@ A simple key-value store using JSON files for storage and a binary search tree f
 Install the package using npm:
 
 ```bash
-npm install json-data-store
+npm install json-db-memory
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ npm install json-data-store
 Here's a basic example of how to use the JsonDataStore:
 
 ```typescript
-import JsonDataStore from 'json-data-store';
+import JsonDataStore from 'json-db-memory';
 
 const store = new JsonDataStore('example');
 
