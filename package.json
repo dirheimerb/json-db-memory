@@ -1,0 +1,40 @@
+{
+  "name": "json-data-store",
+  "version": "1.0.0",
+  "description": "A simple key-value pair, using JSON files for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [
+    "json",
+    "database",
+    "data",
+    "store",
+    "node",
+    "nodejs",
+    "typescript",
+    "ts"
+  ],
+  "author": "Bradley Dirheimer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dirheimerb/json-data-store.git",
+    "directory": "src"
+  },
+  "bugs": {
+    "url": "https: //github.com/dirheimerb/json-data-store/issues"
+  },
+  "homepage": "https: //github.com/dirheimerb/json-data-store#readme",
+  "readme": "README.md",
+  "devDependencies": {
+    "@types/node": "^18.16.0",
+    "@types/jest": "^29.5.1",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
